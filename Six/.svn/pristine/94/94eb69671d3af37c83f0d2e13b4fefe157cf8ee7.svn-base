@@ -1,0 +1,7 @@
+body,td,th {font-size: 14px;}
+body {margin-left: 0px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;}
+a {font-size: 14px;color: #666666;text-decoration:none;}
+a:hover {font-size: 14px;color: #666666;text-decoration:underline}
+.clickOrder:before{content:"";display:inline-block;position:relative;top:5px;width:30px;height:30px;background:url(../../images/index/priceOrder.png);background-repeat:no-repeat;}
+.clickUp:before{content:"";display:inline-block;position:relative;top:5px;width:30px;height:30px;background:url(../../images/index/upPrice.png);background-repeat:no-repeat;}
+.clickDown:before{content:"";display:inline-block;position:relative;top:5px;width:30px;height:30px;background:url(../../images/index/downPrice.png);background-repeat:no-repeat;}

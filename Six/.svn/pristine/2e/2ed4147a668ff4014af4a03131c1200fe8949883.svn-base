@@ -1,0 +1,9 @@
+#bbb div{float:left;margin-left:70px;}
+#left{border: 1px solid;height:400px;width:200px;}
+.one_bar{margin:20px 20px;}
+.one_bar span{font-size:19px;font-weight:bold;}
+.two_bar{margin:10px 30px;}
+#left a{color: #000000 ;text-decoration:none;}
+#left a:hover{color: red;}
+#right{border: 1px solid;margin-left:10px;width:850px;height:600px;}
+iframe{width: 100%;height: 100%;}

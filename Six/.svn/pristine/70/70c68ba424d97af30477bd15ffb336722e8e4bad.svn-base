@@ -1,0 +1,4 @@
+body,td,th {font-size: 14px;}
+body {margin-left: 0px;margin-top: 0px;margin-right: 0px;margin-bottom: 0px;}
+a {font-size: 14px;color: #666666;text-decoration:none;}
+a:hover {font-size: 14px;color: #666666;text-decoration:underline}

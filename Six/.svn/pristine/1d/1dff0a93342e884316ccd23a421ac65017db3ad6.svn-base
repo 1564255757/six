@@ -1,0 +1,1 @@
+input[type='button']{width: 270px;height: 40px;border-width: 0px; border-radius: 3px; background: #1E90FF;cursor: pointer;outline: none;color: white;font-size: 17px;}
